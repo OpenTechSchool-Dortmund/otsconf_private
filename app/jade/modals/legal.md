@@ -1,10 +1,10 @@
-You may [contact us](mailto:contact@conc.at) anytime.
+You may [contact us](mailto:team@otsconf.com) anytime.
 
 ### Offenlegungspflicht gemäß § 25 MedienG und Informationspflicht gemäß E-Commerce-Gesetz
 
 <br>
 
-| Medieninhaber und Herausgeber | Fachhochschule Salzburg GmbH |
+| Medieninhaber und Herausgeber | Open Technology Dortmund |
 | :- | :- |
 | Adresse | Urstein Süd 1 |
 || A-5412 Puch/Salzburg |
@@ -23,20 +23,19 @@ You may [contact us](mailto:contact@conc.at) anytime.
 
 Für den Inhalt der Website verantwortlich:
 
-| Contact   | Stephan Bönnemann
+| Contact   | Leif 
 | :-------- | :-
-| Twitter   | [@boennemann](https://twitter.com/boennemann)
-| Email     | [stephan@boennemann.me](mailto:stephan@boennemann.me)
-| Phone(AT) | [+4915142318681](tel:004915142318681)
-| Phone(DE) | [+436603936464](tel:00436603936464)
+| Twitter   | [@](https://twitter.com/)
+| Email     | [leif@otsconf.com](mailto:leif@otsconf.com)
+| Phone(DE) | [+49](tel:0049)
 
 <br>
 
-| Contact   | Hannes Moser
+| Contact   | Carsten Friedrich
 | :-------- | :-
-| Twitter   | [@eliias](https://twitter.com/eliias)
-| Email     | [hannes.moser@fh-salzburg.ac.at](mailto:hannes.moser@fh-salzburg.ac.at)
-| Phone(AT) | [+436641563323](tel:00436641563323)
+| Twitter   | [@](https://twitter.com/)
+| Email     | [carsten@otsconf.com](mailto:leif@otsconf.com)
+| Phone(DE) | [+49](tel:0049)
 
 <br>
 
