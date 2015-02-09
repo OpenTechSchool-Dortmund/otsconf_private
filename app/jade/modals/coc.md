@@ -1,10 +1,10 @@
-All attendees, speakers, sponsors and volunteers at .concat() are required to agree with and act according to the following code of conduct. Organizers will enforce this code throughout the event. We are expecting cooperation from all participants to help ensuring a safe environment for everybody.
+All attendees, speakers, sponsors and volunteers at the OpenTechSchool Conferece are required to agree with and act according to the following code of conduct. Organizers will enforce this code throughout the event. We are expecting cooperation from all participants to help ensuring a safe environment for everybody.
 
 Need help? Contact us!
 
 ### The Quick Version
 
-.concat() is dedicated to providing a harassment-free conference experience for everyone, regardless of gender, sexual orientation, disability, physical appearance, body size, race, or religion. We do not tolerate harassment of conference participants in any form. Sexual language and imagery is not appropriate for any conference venue, including talks, workshops, parties, Twitter and other online media. Conference participants violating these rules may be sanctioned or expelled from the conference without a refund at the discretion of the conference organizers.
+The OpenTechSchool Conferece is dedicated to providing a harassment-free conference experience for everyone, regardless of gender, sexual orientation, disability, physical appearance, body size, race, or religion. We do not tolerate harassment of conference participants in any form. Sexual language and imagery is not appropriate for any conference venue, including talks, workshops, parties, Twitter and other online media. Conference participants violating these rules may be sanctioned or expelled from the conference without a refund at the discretion of the conference organizers.
 
 ### The Less Quick Version
 
@@ -20,12 +20,17 @@ If you are being harassed, notice that someone else is being harassed, or have a
 
 In case you can’t find a staff member or want to contact us via email or phone directly, we are always there for you:
 
-| Contact   | Stephan Bönnemann
-| :-------- | :-
-| Twitter   | [@boennemann](https://twitter.com/boennemann)
-| Email     | [stephan@boennemann.me](mailto:stephan@boennemann.me)
-| Phone(AT) | [+436603936464](tel:00436603936464)
-| Phone(DE) | [+4915142318681](tel:004915142318681)
+| Contact   | Ola Gasidlo |
+| :-------- | :- |
+| Twitter   | [@misprintedtype](https://twitter.com/misprintedtype)|
+| Email     | [ola@otsconf.com](mailto:ola@otsconf.com)|
+| Phone(DE) | [+49](tel:0049)|
+
+| Contact   | Leif Rothbrust |
+| :-------- | :- |
+| Twitter   | [@](https://twitter.com/)|
+| Email     | [leif@otsconf.com](mailto:leif@otsconf.com)|
+| Phone(DE) | [+49](tel:0049)|
 
 <br>
 
@@ -33,4 +38,4 @@ Conference staff will be happy to help participants contact hotel / venue securi
 
 We expect participants to follow these rules at conference and workshop venues and conference-related social events.
 
-We gladly adapted this document from [Reject.JS's code of conduct](http://rejectjs.org/code-of-conduct/). Thank you for reading it, we can't wait to welcome you in Salzburg!
+We gladly adapted this document from [Reject.JS's code of conduct](http://rejectjs.org/code-of-conduct/). Thank you for reading it, we can't wait to welcome you in Dortmund!
