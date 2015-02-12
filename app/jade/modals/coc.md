@@ -32,7 +32,7 @@ In case you can’t find a staff member or want to contact us via email or phone
 | Email     | [leif@otsconf.com](mailto:leif@otsconf.com)|
 | Phone(DE) | [+49](tel:0049)|
 
-<br>
+
 
 Conference staff will be happy to help participants contact hotel / venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the conference. We value your attendance.
 

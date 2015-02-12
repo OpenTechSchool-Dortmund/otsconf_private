@@ -1,6 +1,5 @@
-Dortmund lorem ipsum dolor sit amet.
+Dortmund, from an historical point of view has always been an important place in the whole Ruhr Area. It has been - and still is known for its coal mines and breweries.
 
-It is home to an amazing [coworkingspace](http://www.heimatdesign.de/coworking/), a [hackerspace](http://www.chaostreff-dortmund.de/) and [other meetups](http://wiki.freifunk.net/Dortmund).
+Nowadays not just the city, but the whole local industry changed. With two universities close to the city center, Dortmund offers a lot of space for education and a growing startup community, especially in the field of information technology.
 
-**Old:**
-Salzburg has lots more to offer than Mozart. It is home to a vibrant web development community, fueled by an incredible amount of talent the University brings forth. More and more creative agencies and startups come up here and there is also an amazing [coworkingspace](http://coworkingsalzburg.com/), [monthly meetups](http://www.meetup.com/salzburgwebdev/) and a [Barcamp](https://barcamp-sbg.at/).
+Therefore, it is home to an amazing [coworkingspace](http://www.heimatdesign.de/coworking/), a [hackerspace](http://www.chaostreff-dortmund.de/) and many other meetups like [Freifunk](http://wiki.freifunk.net/Dortmund).
