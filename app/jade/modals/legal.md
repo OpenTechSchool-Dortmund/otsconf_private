@@ -12,7 +12,7 @@ You may [contact us](mailto:team@otsconf.org) anytime.
 || Deutschland |
 | Telefon | [+49-231-33896966](tel:+4923133896966) |
 | Fax | [+49-231-33896965](fax:+4923133896965) |
-| E-Mail | [team@otsconf.org](mailto:team@otsconf.org) |
+| E-Mail | [team@otsconf.com](mailto:team@otsconf.com) |
 | USt-ID | - noch nicht zugewiesen - |
 | Vertretungsberechtiger Vorstand | Carsten Friedrich, Leif Rothbrust |
 
@@ -23,14 +23,14 @@ Für den Inhalt der Website verantwortlich:
 | Contact   | Leif Rothbrust
 | :-------- | :-
 | Twitter   | [@rthbrst](https://twitter.com/rthbrst)
-| Email     | [leif@otsconf.org](mailto:leif@otsconf.org)
+| Email     | [leif@otsconf.com](mailto:leif@otsconf.com)
 
 <br>
 
 | Contact   | Carsten Friedrich
 | :-------- | :-
 | Twitter   | [@dergraf86](https://twitter.com/dergraf86)
-| Email     | [carsten@otsconf.org](mailto:carsten@otsconf.org)
+| Email     | [carsten@otsconf.com](mailto:carsten@otsconf.com)
 
 <br>
 
