@@ -1,1 +1,0 @@
-Kerstin Puschke is a software engineer living in Hamburg where she contributes to the backend of XING, a social network for business professionals with about 14 million users. She's also a co-organizer of Hamburg's awesome Ruby user group.
