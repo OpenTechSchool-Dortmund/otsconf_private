@@ -1,9 +1,7 @@
-# [conc.at](https://conc.at/)
-[![Build Status](https://jenkins.dovigo.org/buildStatus/icon?job=concat)](https://jenkins.dovigo.org/job/concat/)
-[![Dependency Status](https://david-dm.org/conc-at/conc.at.svg)](https://david-dm.org/conc-at/conc.at)
-[![devDependency Status](https://david-dm.org/conc-at/conc.at/dev-status.svg)](https://david-dm.org/conc-at/conc.at#info=devDependencies)
+# [otsconf](http://otsconf.com)
 
-> conc.at is a static single page website. It is generated with grunt, written in jade, less and js and uses jQuery and Bootstrap.
+
+> otsconf is a static single page website. It is generated with grunt, written in jade, less and js and uses jQuery and Bootstrap.
 
 ## Dependencies
 
