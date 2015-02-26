@@ -39,7 +39,7 @@
   },
   "scripts": {
     "build": "grunt build",
-    "test": "standard && npm run build",
+    "test": "npm run build",
     "deploy": "grunt gh-pages",
     "start": "grunt serve:dist"
   },
