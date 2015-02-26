@@ -19,6 +19,7 @@
     "grunt-contrib-less": "^1.0.0",
     "grunt-contrib-uglify": "^0.7.0",
     "grunt-contrib-watch": "^0.6.1",
+    "grunt-gh-pages": "^0.10.0",
     "grunt-jsonmin": "^0.2.4",
     "grunt-manifest": "^0.4.0",
     "grunt-newer": "^1.1.0",
@@ -37,7 +38,9 @@
     "node": ">=0.10.0"
   },
   "scripts": {
-    "test": "standard && grunt build",
+    "build": "grunt build",
+    "test": "standard && npm run build",
+    "deploy": "grunt gh-pages",
     "start": "grunt serve:dist"
   },
   "dependencies": {
