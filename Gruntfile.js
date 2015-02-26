@@ -270,7 +270,7 @@ module.exports = function (grunt) {
     sitemap: {
       dist: {
         siteRoot: '<%= config.dist %>',
-        homepage: 'https://conc.at'
+        homepage: 'http://dev.otsconf.com'
       }
     },
 
