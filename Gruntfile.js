@@ -339,6 +339,18 @@ module.exports = function (grunt) {
           dest: '<%= config.dist %>'
         }]
       }
+    },
+
+    'gh-pages': {
+      options: {
+        base: 'dist',
+        repo: 'https://' + process.env.GH_TOKEN + '@github.com/OpenTechSchool-Dortmund/otsconf_private',
+        user: {
+          name: 'otsbot',
+          email: 'conf@opentechschool.org'
+        }
+      },
+      src: '**/*'
     }
   })
 

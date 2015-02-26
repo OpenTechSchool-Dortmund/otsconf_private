@@ -1,0 +1,14 @@
+language: node_js
+node_js:
+- '0.12'
+notifications:
+  email: false
+after_success:
+- npm run deploy
+env:
+  global:
+    secure: RTVJzrZvJwbyfr9KyvNXy9nN/P9NGHAheiUovpbh7OjtJOd+kPK/97zTQ8Ud64mRNdPVzlR1B9fNE0ABq1j7MtKXTPITscHLLLaVYCc6rcXPUWnVjH3/1BtoXrmNCYMEyKie3HITHrnCHogWok9C4nYVbEp6BK/B71KrFT1tU6o=
+cache:
+  directories:
+  - node_modules
+sudo: false

@@ -1,5 +1,6 @@
 # [otsconf](http://otsconf.com)
 
+[![Build Status](https://travis-ci.org/OpenTechSchool-Dortmund/otsconf_private.svg?branch=master)](https://travis-ci.org/OpenTechSchool-Dortmund/otsconf_private)
 
 > otsconf is a static single page website. It is generated with grunt, written in jade, less and js and uses jQuery and Bootstrap.
 
