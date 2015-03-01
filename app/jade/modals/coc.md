@@ -20,17 +20,15 @@ If you are being harassed, notice that someone else is being harassed, or have a
 
 In case you can’t find a staff member or want to contact us via email or phone directly, we are always there for you:
 
-| Contact   | Ola Gasidlo |
-| :-------- | :- |
-| Twitter   | [@misprintedtype](https://twitter.com/misprintedtype)|
-| Email     | [ola@otsconf.com](mailto:ola@otsconf.com)|
-| Phone(DE) | [+49](tel:0049)|
+**Contact:** Ola Gasidlo  
+**Twitter:** [@misprintedtype](https://twitter.com/misprintedtype)  
+**Email:** [ola@otsconf.com](mailto:ola@otsconf.com)  
+**Phone:** soon  
 
-| Contact   | Leif Rothbrust |
-| :-------- | :- |
-| Twitter   | [@](https://twitter.com/)|
-| Email     | [leif@otsconf.com](mailto:leif@otsconf.com)|
-| Phone(DE) | [+49](tel:0049)|
+**Contact:** Leif Rothbrust    
+**Twitter:** [@misprintedtype](https://twitter.com/rthbrst)   
+**Email:** [leif@otsconf.com](mailto:leif@otsconf.com)  
+**Phone:** soon 
 
 
 
