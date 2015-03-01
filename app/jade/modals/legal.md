@@ -1,38 +1,33 @@
 You may [contact us](mailto:team@otsconf.org) anytime.
 
-### Imprint/Impressum
+#### Imprint/Impressum
+ 
 
-<br>
+**Verein "Open Tech Dortmund"**  
 
-|| Verein "Open Tech Dortmund" |
-| :- | :- |
-| Adresse | c/o Leif Rothbrust |
-|| Im Spähenfelde 13 |
-|| 44145 Dortmund |
-|| Deutschland |
-| Telefon | [+49-231-33896966](tel:+4923133896966) |
-| Fax | [+49-231-33896965](fax:+4923133896965) |
-| E-Mail | [team@otsconf.com](mailto:team@otsconf.com) |
-| USt-ID | - noch nicht zugewiesen - |
-| Vertretungsberechtiger Vorstand | Carsten Friedrich, Leif Rothbrust |
+**Adresse**  
+c/o Leif Rothbrust   
+Im Spähenfelde 13  
+44145 Dortmund  
+Deutschland  
 
-<br>
+**Telefon:**  +49-231-33896966  
+**Fax:** +49-231-33896965  
+**E-Mail:** team@otsconf.com  
+**USt-ID:** - noch nicht zugewiesen -  
+**Vertretungsberechtiger Vorstand:** Carsten Friedrich, Leif Rothbrust  
+
+
 
 Für den Inhalt der Website verantwortlich:
+**Contact:** Leif Rothbrust  
+**Twitter:** [@rthbrst](https://twitter.com/rthbrst)  
+**Email:** [leif@otsconf.com](mailto:leif@otsconf.com)  
 
-| Contact   | Leif Rothbrust
-| :-------- | :-
-| Twitter   | [@rthbrst](https://twitter.com/rthbrst)
-| Email     | [leif@otsconf.com](mailto:leif@otsconf.com)
+**Contact:** Carsten Friedrich  
+**Twitter:** [@dergraf86](https://twitter.com/dergraf86)    
+**Email:** [carsten@otsconf.com](mailto:carsten@otsconf.com)   
 
-<br>
-
-| Contact   | Carsten Friedrich
-| :-------- | :-
-| Twitter   | [@dergraf86](https://twitter.com/dergraf86)
-| Email     | [carsten@otsconf.com](mailto:carsten@otsconf.com)
-
-<br>
 
 #### Haftungsausschluss
 
