@@ -1,10 +1,10 @@
-All attendees, speakers, sponsors and volunteers at the OpenTechSchool Conferece are required to agree with and act according to the following code of conduct. Organizers will enforce this code throughout the event. We are expecting cooperation from all participants to help ensuring a safe environment for everybody.
+All attendees, speakers, sponsors and volunteers at the OpenTechSchool Conference are required to agree with and act according to the following code of conduct. Organizers will enforce this code throughout the event. We are expecting cooperation from all participants to help ensuring a safe environment for everybody.
 
 Need help? Contact us!
 
 ### The Quick Version
 
-The OpenTechSchool Conferece is dedicated to providing a harassment-free conference experience for everyone, regardless of gender, sexual orientation, disability, physical appearance, body size, race, or religion. We do not tolerate harassment of conference participants in any form. Sexual language and imagery is not appropriate for any conference venue, including talks, workshops, parties, Twitter and other online media. Conference participants violating these rules may be sanctioned or expelled from the conference without a refund at the discretion of the conference organizers.
+The OpenTechSchool Conference is dedicated to providing a harassment-free conference experience for everyone, regardless of gender, sexual orientation, disability, physical appearance, body size, race, or religion. We do not tolerate harassment of conference participants in any form. Sexual language and imagery is not appropriate for any conference venue, including talks, workshops, parties, Twitter and other online media. Conference participants violating these rules may be sanctioned or expelled from the conference without a refund at the discretion of the conference organizers.
 
 ### The Less Quick Version
 
@@ -28,7 +28,7 @@ In case you can’t find a staff member or want to contact us via email or phone
 **Contact:** Leif Rothbrust    
 **Twitter:** [@misprintedtype](https://twitter.com/rthbrst)   
 **Email:** [leif@otsconf.com](mailto:leif@otsconf.com)  
-**Phone:** soon 
+**Phone:** soon
 
 
 
