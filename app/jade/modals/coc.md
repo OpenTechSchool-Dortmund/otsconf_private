@@ -26,7 +26,7 @@ In case you can’t find a staff member or want to contact us via email or phone
 **Phone:** soon  
 
 **Contact:** Leif Rothbrust    
-**Twitter:** [@misprintedtype](https://twitter.com/rthbrst)   
+**Twitter:** [@rthbrst](https://twitter.com/rthbrst)   
 **Email:** [leif@otsconf.com](mailto:leif@otsconf.com)  
 **Phone:** soon
 
