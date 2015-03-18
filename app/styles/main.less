@@ -13,7 +13,8 @@ body {
   color: @gray;
 }
 
-.text-primary {
+.text-primary,
+#sponsors h2.section-heading:nth-child(2) {
   color: @brand-primary;
 }
 
@@ -449,8 +450,12 @@ erPopup {
 }
 
 #sponsors {
-  .container > .row:last-child {
-    margin-top: 60px;
+  .container > .row .col-md-10 {
+    margin-bottom: 60px;
+
+    img {
+    margin-bottom: 20px;
+    }
   }
 }
 
