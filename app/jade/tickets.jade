@@ -4,7 +4,7 @@ section#tickets
       .col-lg-12.text-center
         h2.section-heading Tickets
         h3.section-subheading.text-muted 
-          | including breakfast and lunch served at the venue
+          | including breakfast and lunch served at the venue – and a party
     .row.text-center
       .ticket-info.col-md-3.col-sm-6
         span.fa-stack.fa-4x
@@ -13,9 +13,8 @@ section#tickets
         h4.service-heading Student Tickets
         p.text-muted
           | We want everyone who is interested to attend this conference, thus we will support students with a reduced ticket price.
-        button.btn.btn-xl.disabled
-          | tba
-          span.badge Coming Soon
+        tito-button(event='concat/2015', releases='hyshzvltdu')
+          | 75€ + VAT
       .ticket-info.col-md-3.col-sm-6
         span.fa-stack.fa-4x
           i.fa.fa-circle.fa-stack-2x.text-3
@@ -23,8 +22,9 @@ section#tickets
         h4.service-heading Early Bird Tickets
         p.text-muted
           | A “thank you” to all of you early birds who trust and enable us to get this conference off the ground.
-        tito-button(event='otsconf/2015', releases='8-e60deocmm')
-          | 170€
+        button.btn.btn-xl.disabled
+          | 125€ + VAT
+          span.badge Sold Out
       .clearfix.visible-sm
       .ticket-info.col-md-3.col-sm-6
         span.fa-stack.fa-4x
@@ -33,24 +33,19 @@ section#tickets
         h4.service-heading Regular Tickets
         p.text-muted
           | One full day of knowledge, fun and hanging out with old and new friends. That's our regular ticket. 
-        button.btn.btn-xl.disabled
-          | tba
-          span.badge Coming Soon
+        tito-button(event='concat/2015', releases='qfdzoqm8zrw')
+          | 175€ + VAT
       .ticket-info.col-md-3.col-sm-6
         span.fa-stack.fa-4x
           i.fa.fa-circle.fa-stack-2x.text-4
           i.fa.fa-gift.fa-stack-1x.fa-inverse
         h4.service-heading Diversity Tickets
         p.text-muted
-          | Free tickets for underrepresented groups in tech. Would you like to attend the conference but cannot afford the ticket?
-          //-| (#{''}
-          //-a(href='#TODO-diversity-tickets') sponsor this
-          //-| )
-        button.btn.btn-xl.disabled
-          |  Apply
-          span.badge Coming Soon
-      span (all prices include 19% VAT)
+          | Free tickets for underrepresented groups in tech. Would you like to attend the conference but cannot afford the ticket? (#{''}
+          a(href='http://conc-at.tumblr.com/post/107499311229/diversity-tickets') sponsor this
+          | )
+        a(href='https://docs.google.com/forms/d/1GPEnqzwiLMppOF51CHKg8_JT9m-Io3_3yudgoMOc6BE/').btn.btn-xl Apply
     .row#travel
-      //-include ./party
+      include ./party
       include ./travel
-      //-include ./accomodation
+      include ./accomodation
