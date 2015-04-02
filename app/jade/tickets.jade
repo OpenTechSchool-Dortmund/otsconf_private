@@ -4,7 +4,7 @@ section#tickets
       .col-lg-12.text-center
         h2.section-heading Tickets
         h3.section-subheading.text-muted 
-          | including breakfast and lunch served at the venue – and a party
+          | including breakfast and lunch served at the venue
     .row.text-center
       .ticket-info.col-md-3.col-sm-6
         span.fa-stack.fa-4x
@@ -13,8 +13,9 @@ section#tickets
         h4.service-heading Student Tickets
         p.text-muted
           | We want everyone who is interested to attend this conference, thus we will support students with a reduced ticket price.
-        tito-button(event='concat/2015', releases='hyshzvltdu')
-          | 75€ + VAT
+        button.btn.btn-xl.disabled
+          | tba
+          span.badge Coming Soon
       .ticket-info.col-md-3.col-sm-6
         span.fa-stack.fa-4x
           i.fa.fa-circle.fa-stack-2x.text-3
@@ -22,9 +23,8 @@ section#tickets
         h4.service-heading Early Bird Tickets
         p.text-muted
           | A “thank you” to all of you early birds who trust and enable us to get this conference off the ground.
-        button.btn.btn-xl.disabled
-          | 125€ + VAT
-          span.badge Sold Out
+        tito-button(event='otsconf/2015', releases='8-e60deocmm')
+          | 170€
       .clearfix.visible-sm
       .ticket-info.col-md-3.col-sm-6
         span.fa-stack.fa-4x
@@ -33,19 +33,25 @@ section#tickets
         h4.service-heading Regular Tickets
         p.text-muted
           | One full day of knowledge, fun and hanging out with old and new friends. That's our regular ticket. 
-        tito-button(event='concat/2015', releases='qfdzoqm8zrw')
-          | 175€ + VAT
+        button.btn.btn-xl.disabled
+          | tba
+          span.badge Coming Soon
       .ticket-info.col-md-3.col-sm-6
         span.fa-stack.fa-4x
           i.fa.fa-circle.fa-stack-2x.text-4
           i.fa.fa-gift.fa-stack-1x.fa-inverse
         h4.service-heading Diversity Tickets
         p.text-muted
-          | Free tickets for underrepresented groups in tech. Would you like to attend the conference but cannot afford the ticket? (#{''}
-          a(href='http://conc-at.tumblr.com/post/107499311229/diversity-tickets') sponsor this
-          | )
-        a(href='https://docs.google.com/forms/d/1GPEnqzwiLMppOF51CHKg8_JT9m-Io3_3yudgoMOc6BE/').btn.btn-xl Apply
+          | Free tickets for underrepresented groups in tech. Would you like to attend the conference but cannot afford the ticket?
+          //-| (#{''}
+          //-a(href='#TODO-diversity-tickets') sponsor this
+          //-| )
+        button.btn.btn-xl.disabled
+          |  Apply
+          span.badge Coming Soon
+      p Every member of the OpenTechSchool e.V. gets 10% off one Early Bird or Regular Ticket for themselves by using the OTS-EV-MEMBER discount code.
+      p (all prices include 19% VAT)
     .row#travel
-      include ./party
+      //-include ./party
       include ./travel
-      include ./accomodation
+      //-include ./accomodation
