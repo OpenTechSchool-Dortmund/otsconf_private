@@ -1,17 +1,21 @@
-You may [contact us](mailto:team@otsconf.org) anytime.
+You may [contact us](mailto:team@otsconf.com) anytime.
 
 #### Imprint/Impressum
 
 
-**OpenTechSchool e.V.**  
+**Verein "Open Tech Dortmund"**  
 
 **Adresse**  
-c/o co.up  
-Adalbertstr. 8  
-10999 Berlin
+c/o Leif Rothbrust  
+Im Spähenfelde 13  
+44145 Dortmund  
+Deutschland
 
-**E-Mail:** foundation.board |at| opentechschool |dot| org
+**Telefon:** +49-231-33896964  
+**E-Mail:** [team@otsconf.com](mailto:team@otsconf.com)
 
+**Vertretungsberechtigter Vorstand:** Leif Rothbrust, Carsten Friedrich  
+**USt-ID:** - noch nicht zugewiesen -
 
 
 Für den Inhalt der Website verantwortlich:  
