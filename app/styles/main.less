@@ -103,7 +103,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .btn-xl {
-  .button-variant(white; @brand-primary; @brand-primary);
+  .button-variant(white; @brand-3; @brand-3);
   .heading-font;
   font-weight: 700;
   border-radius: 3px;
@@ -223,6 +223,7 @@ tito-button {
     &:extend(.btn);
     &:extend(.btn-xl);
     border: none;
+    background-color: inherit;
   }
 }
 
@@ -293,7 +294,7 @@ header {
   header {
     .intro-text {
       padding-top: 135px;
-      padding-bottom: 200px;
+      padding-bottom: 80px;
       .intro-lead-in {
         .serif-font;
         font-style: italic;
@@ -676,5 +677,13 @@ img::-moz-selection {
 footer {
   .list-inline {
     margin: 20px 0;
+  }
+}
+
+#tickets .list-including li {
+  color: @brand-2;
+
+  small {
+    color: #999;
   }
 }

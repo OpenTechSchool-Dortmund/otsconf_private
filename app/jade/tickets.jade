@@ -1,10 +1,8 @@
-section#tickets
+section#tickets.bg-light-gray
   .container
     .row
-      .col-lg-12.text-center
-        h2.section-heading Tickets
-        h3.section-subheading.text-muted 
-          | including breakfast and lunch served at the venue – and a party
+      .col-lg-12.text-center.list-including
+        h2.section-heading Tickets <br />
     .row.text-center
       .ticket-info.col-md-3.col-sm-6
         span.fa-stack.fa-4x
@@ -13,18 +11,18 @@ section#tickets
         h4.service-heading Student Tickets
         p.text-muted
           | We want everyone who is interested to attend this conference, thus we will support students with a reduced ticket price.
-        tito-button(event='concat/2015', releases='hyshzvltdu')
-          | 75€ + VAT
+        button.btn.btn-xl.disabled
+          | tba
+          span.badge Coming Soon
       .ticket-info.col-md-3.col-sm-6
         span.fa-stack.fa-4x
           i.fa.fa-circle.fa-stack-2x.text-3
           i.fa.fa-flash.fa-stack-1x.fa-inverse
         h4.service-heading Early Bird Tickets
         p.text-muted
-          | A “thank you” to all of you early birds who trust and enable us to get this conference off the ground.
-        button.btn.btn-xl.disabled
-          | 125€ + VAT
-          span.badge Sold Out
+          | A “thank you” to all of you early birds who trust and enable us to get this conference off the ground. You'll be able to vote for the talks.
+        tito-button.btn.btn-xl(event='otsconf/2015', releases='8-e60deocmm')
+          | 170€ incl. VAT
       .clearfix.visible-sm
       .ticket-info.col-md-3.col-sm-6
         span.fa-stack.fa-4x
@@ -33,18 +31,56 @@ section#tickets
         h4.service-heading Regular Tickets
         p.text-muted
           | One full day of knowledge, fun and hanging out with old and new friends. That's our regular ticket. 
-        tito-button(event='concat/2015', releases='qfdzoqm8zrw')
-          | 175€ + VAT
+        button.btn.btn-xl.disabled
+          | tba
+          span.badge Coming Soon
       .ticket-info.col-md-3.col-sm-6
         span.fa-stack.fa-4x
           i.fa.fa-circle.fa-stack-2x.text-4
           i.fa.fa-gift.fa-stack-1x.fa-inverse
         h4.service-heading Diversity Tickets
         p.text-muted
-          | Free tickets for underrepresented groups in tech. Would you like to attend the conference but cannot afford the ticket? (#{''}
-          a(href='http://conc-at.tumblr.com/post/107499311229/diversity-tickets') sponsor this
-          | )
-        a(href='https://docs.google.com/forms/d/1GPEnqzwiLMppOF51CHKg8_JT9m-Io3_3yudgoMOc6BE/').btn.btn-xl Apply
+          | Free tickets for underrepresented groups in tech. Would you like to attend the conference but cannot afford the ticket?
+          //-| (#{''}
+          //-a(href='#TODO-diversity-tickets') sponsor this
+          //-| )
+        button.btn.btn-xl.disabled
+          |  Apply
+          span.badge Coming Soon
+
+    .row
+      .col-lg-12.text-center.list-including
+        h5.text-center including
+        br
+        .col-md-4.text-left
+          li.list-group-item entrance to venue
+          li.list-group-item 11 amazing talks about open tech
+          li.list-group-item 6 creative lightning talks
+          li.list-group-item early birds are able to vote for talks
+
+        .col-md-4.text-left
+          li.list-group-item breakfast
+          li.list-group-item lunch
+          li.list-group-item coffee break
+          li.list-group-item <small>all meals with vegan / meat options by default</small>
+
+        .col-md-4.text-left
+          li.list-group-item entrance to after party
+          li.list-group-item <small>non-attendees can buy a seperate ticket</small>
+          li.list-group-item non-alcoholic / alcoholic drinks
+          li.list-group-item <small>with limited budget for free drinks </small>
+      
+     
+      .col-lg-12.text-center
+        br
+        br
+        p Every <strong>member</strong> of the OpenTechSchool e.V. gets <strong>10%</strong> off <strong>one</strong> Early Bird <strong>or</strong> <br />Regular Ticket for <strong>themselves</strong> by using the <em>OTS-EV-MEMBER</em> discount code.
+        p Please <strong>follow</strong> <a href="https://ti.to/otsconf/2015">https://ti.to/otsconf/2015</a> to get your <strong>discount</strong>.
+        small (all prices include 19% VAT)
+
+
+section#tickets
+  .container
     .row#travel
       include ./party
       include ./travel
