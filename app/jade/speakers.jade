@@ -54,3 +54,14 @@ section#talks
       .col-lg-12.text-left
         h4.section-heading.col-sm-4.text-right Help &amp; Support 
         p.text-left.col-sm-8 If you need any help with finding a <strong>topic, review  your slides</strong> or someone to help <strong>practice your talk</strong> with, please <a href="mailto:team@otsconf.com"><strong>contact us</strong></a>! <br />Also please follow <a href="https://twitter.com/otsconf" target="_blank">@otsconf</a> for more information.
+
+    .row
+      .col-lg-12.text-center
+        h2.section-heading#speaker(style="margin-top:50px") Speaker
+
+      .col-lg-12.text-center
+      - var more = '10 talk slots are available. You can submit your talk until 13th of May.'
+        +speaker('Anika Lindtner', 'Getting more Women in Open Source. Why the f*ck should we care?', '#talk-more-woman-in-open-source', '@langziehohr')
+        +speaker('Kevin Lorenz', 'Master of Ceremonies', '#mc-lorenz', '@verpixelt')
+        +speaker('More Speakers…', more)(class='no-abstract')
+
