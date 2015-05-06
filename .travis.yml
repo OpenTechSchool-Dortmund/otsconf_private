@@ -3,6 +3,8 @@ node_js:
 - '0.12'
 notifications:
   email: false
+  slack:
+    secure: OjiU/3vGWgqgHcerW1EvH5VEJItjaXva1/2LmuMHMnCgz69uNfQvyGtYfFttvjqXFTjtFl+KfyYs36KJfWpQe6pNY3ieAPAT+e9g4QObAtf7Sg9kf/lcFYawEi+iM/nhkIMUqU1GRbyi+yDBPZPMQZbaVXFAMG7FdoXT1umT2Tg=
 after_success:
 - test $TRAVIS_PULL_REQUEST == "false" && test $TRAVIS_BRANCH == "master" && npm run deploy
 env:
