@@ -1,5 +1,5 @@
-The Dortmunder U shows artworks from 20th and 21st centuries, develops
-innovative concepts of cultural education in the digital age, initiates
+The Dortmunder U is the old "Unions" brewery and shows artworks from 20th and 21st centuries,
+develops innovative concepts of cultural education in the digital age, initiates
 partnerships between art and science, and cooperates with different players in
 the context of creative industries.
 
@@ -8,3 +8,5 @@ for regional as well as international projects and collaborates with other
 international institutions in the interdisciplinary field. The "U" will embody
 an innovative practice at the intersection of art, research, creativity,
 cultural education and economy.
+
+[More about the Dortmunder U](http://www.dortmunder-u.de/en)
