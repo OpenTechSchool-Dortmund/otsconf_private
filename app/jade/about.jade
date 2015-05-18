@@ -31,13 +31,15 @@ section#opentechschool.bg-light-gray
   .container
     .row
       .col-lg-12.text-center
-        h2.section-heading What is OpenTechSchool anyway?
+        h2.section-heading <br /> What is OpenTechSchool anyway?
+        h3.section-subheading.text-muted
+          | Hands-on, empowering, peer-driven.
 
     .row
       .col-md-8.col-md-offset-2.text-muted
         include:markdown opentechschool.md
 
-section#dortmund.bg-light-gray
+section#dortmund
   .container
     .row
       .col.lg-12.text-center
@@ -59,3 +61,18 @@ section#dortmund.bg-light-gray
           a(href='https://creativecommons.org/licenses/by-sa/3.0/deed.en') CC-BY-SA 3.0
       .col-md-4.text-muted
         include:markdown dortmund.md
+
+section#dortmund-map.bg-light-gray
+  .container
+    .row
+      .col.lg-12.text-center
+        h2.section-heading <br /> Dortmunder U
+        h3.section-subheading.text-muted
+          | Center for Art and Creativity
+    .row
+
+      .col-md-4.col-md-offset-2
+        include:jade map.jade
+
+      .col-md-4.text-muted
+        include:markdown dortmunder-u.md

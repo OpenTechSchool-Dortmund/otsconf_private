@@ -10,5 +10,3 @@ The learning material is shared and collectively improved by the online communit
 
 Further information about the local Dortmund chapter of OTS can be found [here](http://opentechschool.org/dortmund)
 and on the [meetup page](http://www.meetup.com/opentechschool-dortmund/).
-
-We’re looking forward to welcoming you into OpenTechSchool Dortmund!
