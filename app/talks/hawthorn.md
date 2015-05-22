@@ -1,0 +1,5 @@
+How often have you been engaged in conversation with co-workers and one of your colleagues was referred to as “not technical”? How often have you used this phrase yourself when talking about other folks in your industry who were not software developers or engineers of another type? And have you ever really considered what your criteria were when applying this label to them?
+
+In this talk, Leslie Hawthorn will argue that this particular phrase has outlived its usefulness in the technology industry. Rather than providing any kind of useful baseline for understanding the skill sets of our colleagues, this binary simply serves as a mental shortcut for our own inherent biases that someone is less capable as we perceive ourselves to be. In addition to the very real chance that this mental shortcut means we’re thinking – and spreading – inaccurate information, it also creates a false dichotomy regarding what each of us might be capable of achieving.
+
+Attendees will leave this talk with a better idea of how to create an environment that values contributions from every single one of their colleagues and to foster each of their teammates continued successes.
