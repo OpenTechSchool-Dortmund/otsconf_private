@@ -1,0 +1,66 @@
+.portfolio-modal.modal.fade(tabindex='-1', role='dialog', aria-hidden='true', id='talk-firefoxos-phones')
+  .modal-content
+    .close-modal(data-dismiss='modal')
+      .lr
+        .rl
+    .container
+      .row
+        .col-lg-8.col-lg-offset-2
+          .modal-body
+            h2 IoT for the masses 
+            h3 Hardware prototyping with JavaScript, Firefox OS & Rust!
+
+            include:markdown ../../../talks/joined.md
+
+
+            .sidebyside-portfolio
+              .portfolio-item
+                span.portfolio-link
+                  img(
+                    src='images/speakers/dan_callahan.jpg',
+                    srcset='images/speakers/dan_callahan@2x.jpg 2x',
+                    alt="Dan Callahan",
+                    width='400',
+                    height='289'
+                  )
+                .portfolio-caption
+                  h3 Dan Callahan
+                  ul.list-inline.social-buttons
+                      li
+                        a(href='https://twitter.com/callahad')
+                          i.fa.fa-twitter
+                      li
+                        a(href='https://github.com/callahad')
+                          i.fa.fa-github-alt
+                      li
+                        a(href='http://dancallahan.info')
+                          i.fa.fa-globe
+
+              .portfolio-item
+                span.portfolio-link
+                  img(
+                    src='images/speakers/szmozsnszky_istvn.jpg',
+                    srcset='images/speakers/szmozsnszky_istvn@2x.jpg 2x',
+                    alt="Dan Callahan",
+                    width='400',
+                    height='289'
+                  )
+                .portfolio-caption
+                  h3 Szmozsánszky István
+                  ul.list-inline.social-buttons
+                      li
+                        a(href='https://twitter.com/slsoftworks')
+                          i.fa.fa-twitter
+                      li
+                        a(href='https://github.com/flaki')
+                          i.fa.fa-github-alt
+                      li
+                        a(href='https://medium.com/@slsoftworks/')
+                          i.fa.fa-globe
+
+            include:markdown ../../../talks/callahan.bio.md
+            include:markdown ../../../talks/istvan.bio.md
+
+            button.btn.btn-primary(type='button', data-dismiss='modal')
+              i.fa.fa-times
+              |  Close Abstract
