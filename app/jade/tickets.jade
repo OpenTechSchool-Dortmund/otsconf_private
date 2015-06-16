@@ -4,28 +4,42 @@ section#tickets.bg-light-gray
       .col-lg-12.text-center.list-including
         h2.section-heading Tickets <br />
     .row.text-center
-      .ticket-info.col-md-3.col-sm-6
+      .ticket-info.col-md-4.col-sm-6
+        span.fa-stack.fa-4x
+          i.fa.fa-circle.fa-stack-2x.text-3
+          i.fa.fa-leaf.fa-stack-1x.fa-inverse
+        h4.service-heading Early Bird Tickets
+        p.text-muted
+          | A “thank you” to all of you early birds who trust and enable us to get this conference off the ground. You'll be able to vote for the talks.
+        button.btn.btn-xl.btn-wide.disabled
+          | 170€ incl. VAT
+          span.badge Sold Out
+      .clearfix.visible-sm
+
+      .ticket-info.col-md-4.col-sm-6
         span.fa-stack.fa-4x
           i.fa.fa-circle.fa-stack-2x.text-2
           i.fa.fa-graduation-cap.fa-stack-1x.fa-inverse
         h4.service-heading Student Tickets
         p.text-muted
           | We want everyone who is interested to attend this conference, thus we will support students with a reduced ticket price.
-        button.btn.btn-xl.btn-wide.disabled
+        tito-button.btn.btn-xl(event='otsconf/2015', releases='h9tn-kcxbhw')
           | 80€ incl. VAT
-          span.badge Coming Soon
-      .ticket-info.col-md-3.col-sm-6
+      .clearfix.visible-sm
+
+      .ticket-info.col-md-4.col-sm-6
         span.fa-stack.fa-4x
           i.fa.fa-circle.fa-stack-2x.text-primary
           i.fa.fa-ticket.fa-stack-1x.fa-inverse
         h4.service-heading Regular Tickets
         p.text-muted
           | One full day of knowledge, fun and hanging out with old and new friends. That's our regular ticket. 
-        button.btn.btn-xl.btn-wide.disabled
+        tito-button.btn.btn-xl(event='otsconf/2015', releases='aara1aro91m')
           | 260€ incl. VAT
-          span.badge Coming Soon
       .clearfix.visible-sm
-      .ticket-info.col-md-3.col-sm-6
+
+    .row.text-center
+      .ticket-info.col-md-4.col-sm-6
         span.fa-stack.fa-4x
           i.fa.fa-circle.fa-stack-2x.text-3
           i.fa.fa-flash.fa-stack-1x.fa-inverse
@@ -34,19 +48,29 @@ section#tickets.bg-light-gray
           | Same as the regular ticket. The extra money goes towards our community ticket programme and you will be named on the site as a supporter if you like.
         tito-button.btn.btn-xl(event='otsconf/2015', releases='ks-r7orfklm')
           | 380€ incl. VAT
-      .ticket-info.col-md-3.col-sm-6
+      .clearfix.visible-sm
+
+      .ticket-info.col-md-4.col-sm-6
         span.fa-stack.fa-4x
           i.fa.fa-circle.fa-stack-2x.text-4
           i.fa.fa-gift.fa-stack-1x.fa-inverse
         h4.service-heading Diversity Tickets
         p.text-muted
           | Free tickets for underrepresented groups in tech. Would you like to attend the conference but cannot afford the ticket?
-          //-| (#{''}
-          //-a(href='#TODO-diversity-tickets') sponsor this
-          //-| )
-        button.btn.btn-xl.btn-wide.disabled
+        a.btn.btn-xl.btn-wide(href='http://blog.otsconf.com/post/121589262220/how-to-apply-for-community-and-diversity-tickets')
           |  Apply
-          span.badge Coming Soon
+      .clearfix.visible-sm
+
+      .ticket-info.col-md-4.col-sm-6
+        span.fa-stack.fa-4x
+          i.fa.fa-circle.fa-stack-2x.text-2
+          i.fa.fa-code.fa-stack-1x.fa-inverse
+        h4.service-heading Workshop Tickets
+        p.text-muted
+          | Five workshops wait for you: AngularJS, Nodecopter, JavaScript for Absolute Beginners, CSS Classes, Artificial Intelligence for Robots and Swarms
+        a.btn.btn-xl.btn-wide(href='http://blog.otsconf.com/post/121620705005/our-5-workshops')
+          |  Sign Up
+      .clearfix.visible-sm
 
     .row
       .col-lg-12.text-center.list-including
