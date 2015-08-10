@@ -23,8 +23,9 @@ section#tickets.bg-light-gray
         h4.service-heading Student Tickets
         p.text-muted
           | We want everyone who is interested to attend this conference, thus we will support students with a reduced ticket price.
-        tito-button.btn.btn-xl(event='otsconf/2015', releases='h9tn-kcxbhw')
+        button.btn.btn-xl.btn-wide.disabled
           | 80€ incl. VAT
+          span.badge Sold Out
       .clearfix.visible-sm
 
       .ticket-info.col-md-4.col-sm-6
@@ -34,8 +35,9 @@ section#tickets.bg-light-gray
         h4.service-heading Regular Tickets
         p.text-muted
           | One full day of knowledge, fun and hanging out with old and new friends. That's our regular ticket. 
-        tito-button.btn.btn-xl(event='otsconf/2015', releases='aara1aro91m')
+        button.btn.btn-xl.btn-wide.disabled
           | 260€ incl. VAT
+          span.badge Sold Out
       .clearfix.visible-sm
 
     .row.text-center
@@ -69,8 +71,11 @@ section#tickets.bg-light-gray
         h4.service-heading Workshop Tickets
         p.text-muted
           | Six workshops wait for you: AngularJS, Nodecopter, JavaScript for Absolute Beginners, CSS Classes, Artificial Intelligence for Robots and Swarms, Hardware Hacking
-        a.btn.btn-xl.btn-wide(href='http://blog.otsconf.com/post/121620705005/')
+        //- This is the original workshop link
+          | a.btn.btn-xl.btn-wide(href='http://blog.otsconf.com/post/121620705005/')
+        button.btn.btn-xl.btn-wide.disabled
           |  Sign Up
+          span.badge Closed
       .clearfix.visible-sm
 
     .row
