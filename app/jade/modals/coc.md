@@ -22,11 +22,11 @@ In case you can’t find a staff member or want to contact us via email or phone
 
 **Contact:** Katharina Mehner  
 **Twitter:** [@Kiida](https://twitter.com/Kiida)  
-**Phone:** soon
 
 **Contact:** Robin Mehner  
 **Twitter:** [@rmehner](https://twitter.com/rmehner)  
-**Phone:** soon
+
+**Phone:** (+49) 176 7222 4549
 
 
 
