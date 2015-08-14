@@ -2,13 +2,13 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://dev.otsconf.com/</loc>
-    <lastmod>2015-08-14T10:13:15.291Z</lastmod>
+    <lastmod>2015-08-14T15:15:05.054Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://dev.otsconf.com/schedule.html</loc>
-    <lastmod>2015-08-14T10:13:15.295Z</lastmod>
+    <lastmod>2015-08-14T15:15:05.062Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
